@@ -9,10 +9,6 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
-    },
-    {
       "Id": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
@@ -457,28 +453,12 @@
       "PackagePath": "staticwebassets\\page\\fonts\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Id": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\wwwroot\\page\\img\\bartender.png",
-      "PackagePath": "staticwebassets\\page\\img\\bartender.png"
-    },
-    {
       "Id": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\wwwroot\\page\\img\\fav.png",
       "PackagePath": "staticwebassets\\page\\img\\fav.png"
     },
     {
-      "Id": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\wwwroot\\page\\img\\favicon.ico",
-      "PackagePath": "staticwebassets\\page\\img\\favicon.ico"
-    },
-    {
-      "Id": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\wwwroot\\page\\img\\fondo.jpg",
-      "PackagePath": "staticwebassets\\page\\img\\fondo.jpg"
-    },
-    {
       "Id": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\wwwroot\\page\\img\\head.jpeg",
       "PackagePath": "staticwebassets\\page\\img\\head.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\wwwroot\\page\\img\\head.jpg",
-      "PackagePath": "staticwebassets\\page\\img\\head.jpg"
     },
     {
       "Id": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\wwwroot\\page\\img\\logo-black.svg",

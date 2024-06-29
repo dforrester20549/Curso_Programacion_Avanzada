@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_web\\practica_2_web\\entities\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|solutionrelative:practica_2_web\\entities\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_web\\practica_2_web\\views\\home\\registrarvendedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|solutionrelative:practica_2_web\\views\\home\\registrarvendedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_web\\practica_2_web\\entities\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|solutionrelative:practica_2_web\\entities\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_web\\practica_2_web\\entities\\confirmacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|solutionrelative:practica_2_web\\entities\\confirmacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_web\\practica_2_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|solutionrelative:practica_2_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_web\\practica_2_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|solutionrelative:practica_2_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_web\\practica_2_web\\models\\vendedormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|solutionrelative:practica_2_web\\models\\vendedormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_web\\practica_2_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|solutionrelative:practica_2_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_web\\practica_2_web\\wwwroot\\page\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|solutionrelative:practica_2_web\\wwwroot\\page\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_web\\practica_2_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|solutionrelative:practica_2_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_web\\practica_2_web\\wwwroot\\page\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|solutionrelative:practica_2_web\\wwwroot\\page\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_web\\practica_2_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|solutionrelative:practica_2_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_web\\practica_2_web\\interfaces\\ivendedormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|solutionrelative:practica_2_web\\interfaces\\ivendedormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_web\\practica_2_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|solutionrelative:practica_2_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_web\\practica_2_web\\entities\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E57E3A2-406F-499F-A944-7A0E7118C912}|Practica_2_WEB\\Practica_2_WEB.csproj|solutionrelative:practica_2_web\\entities\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,84 +50,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Confirmacion.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Entities\\Confirmacion.cs",
-              "RelativeDocumentMoniker": "Practica_2_WEB\\Entities\\Confirmacion.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Entities\\Confirmacion.cs",
-              "RelativeToolTip": "Practica_2_WEB\\Entities\\Confirmacion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T16:15:50.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Vehiculo.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Entities\\Vehiculo.cs",
-              "RelativeDocumentMoniker": "Practica_2_WEB\\Entities\\Vehiculo.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Entities\\Vehiculo.cs",
-              "RelativeToolTip": "Practica_2_WEB\\Entities\\Vehiculo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T16:15:07.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Vendedor.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Entities\\Vendedor.cs",
-              "RelativeDocumentMoniker": "Practica_2_WEB\\Entities\\Vendedor.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Entities\\Vendedor.cs",
-              "RelativeToolTip": "Practica_2_WEB\\Entities\\Vendedor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T16:14:40.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Practica_2_WEB\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Practica_2_WEB\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-29T16:05:12.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\wwwroot\\page\\css\\style.css",
-              "RelativeDocumentMoniker": "Practica_2_WEB\\wwwroot\\page\\css\\style.css",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\wwwroot\\page\\css\\style.css",
-              "RelativeToolTip": "Practica_2_WEB\\wwwroot\\page\\css\\style.css",
-              "ViewState": "AQIAAI0AAAAAAAAAAAAAAKUAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-29T16:00:45.185Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\appsettings.json",
+              "RelativeDocumentMoniker": "Practica_2_WEB\\appsettings.json",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\appsettings.json",
+              "RelativeToolTip": "Practica_2_WEB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-29T19:54:08.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "styles.css",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\wwwroot\\page\\css\\styles.css",
-              "RelativeDocumentMoniker": "Practica_2_WEB\\wwwroot\\page\\css\\styles.css",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\wwwroot\\page\\css\\styles.css",
-              "RelativeToolTip": "Practica_2_WEB\\wwwroot\\page\\css\\styles.css",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Program.cs",
+              "RelativeDocumentMoniker": "Practica_2_WEB\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Program.cs",
+              "RelativeToolTip": "Practica_2_WEB\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-29T15:53:26.034Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:54:06.274Z",
               "EditorCaption": ""
             },
             {
@@ -126,9 +86,98 @@
               "RelativeDocumentMoniker": "Practica_2_WEB\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Practica_2_WEB\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAABPAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADEAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-29T15:31:57.062Z",
+              "WhenOpened": "2024-06-29T19:51:05.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrarVendedor.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Views\\Home\\RegistrarVendedor.cshtml",
+              "RelativeDocumentMoniker": "Practica_2_WEB\\Views\\Home\\RegistrarVendedor.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Views\\Home\\RegistrarVendedor.cshtml",
+              "RelativeToolTip": "Practica_2_WEB\\Views\\Home\\RegistrarVendedor.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAC4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T19:49:02.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practica_2_WEB\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Practica_2_WEB\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T19:45:17.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IVendedorModel.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Interfaces\\IVendedorModel.cs",
+              "RelativeDocumentMoniker": "Practica_2_WEB\\Interfaces\\IVendedorModel.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Interfaces\\IVendedorModel.cs",
+              "RelativeToolTip": "Practica_2_WEB\\Interfaces\\IVendedorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:40:42.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Practica_2_WEB\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Practica_2_WEB\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:40:23.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Entities\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Practica_2_WEB\\Entities\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Entities\\Vehiculo.cs",
+              "RelativeToolTip": "Practica_2_WEB\\Entities\\Vehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:40:22.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Entities\\Vendedor.cs",
+              "RelativeDocumentMoniker": "Practica_2_WEB\\Entities\\Vendedor.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Entities\\Vendedor.cs",
+              "RelativeToolTip": "Practica_2_WEB\\Entities\\Vendedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:40:19.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VendedorModel.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Models\\VendedorModel.cs",
+              "RelativeDocumentMoniker": "Practica_2_WEB\\Models\\VendedorModel.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_WEB\\Practica_2_WEB\\Models\\VendedorModel.cs",
+              "RelativeToolTip": "Practica_2_WEB\\Models\\VendedorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:37:33.749Z",
               "EditorCaption": ""
             }
           ]

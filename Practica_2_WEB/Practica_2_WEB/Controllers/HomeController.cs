@@ -1,32 +1,38 @@
 using Microsoft.AspNetCore.Mvc;
+using Practica_2_WEB.Interfaces;
 using Practica_2_WEB.Models;
+using Practica_2_WEB.Entities;
+using Practica_2_WEB.Interfaces;
 using System.Diagnostics;
 
 namespace Practica_2_WEB.Controllers
 {
-    public class HomeController : Controller
+    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+    public class HomeController(IVendedorModel iVendedorModel) : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
-
+        [HttpGet]
         public IActionResult Index()
         {
             return View();
         }
 
-        public IActionResult Privacy()
+        [HttpGet]
+        public IActionResult RegistrarVendedor()
         {
             return View();
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        [HttpPost]
+        public IActionResult RegistrarVendedor(Vendedor ent)
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            var resp = iVendedorModel.RegistrarVendedor(ent);
+
+            if (resp.Codigo == 1)
+                return RedirectToAction("Index", "Home");
+
+            ViewBag.msj = resp.Detalle;
+            return View();
         }
+
     }
 }
