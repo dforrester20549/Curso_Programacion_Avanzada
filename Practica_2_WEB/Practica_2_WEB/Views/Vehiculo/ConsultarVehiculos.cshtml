@@ -1,0 +1,37 @@
+﻿@model List<Practica_2_WEB.Entities.Vehiculo>
+
+@{
+    ViewData["Title"] = "ConsultarVehiculos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="mb-3 d-flex justify-content-start">
+    <a href="@Url.Action("RegistrarVehiculo", "Vehiculo")" class="btn btn-primary">
+        Agregar Vehículo
+    </a>
+</div>
+<table id="TablaVehiculos" class="table table-hover">
+    <thead>
+        <tr>
+            <th>Cedula</th>
+            <th>Nombre</th>
+            <th>Marca</th>
+            <th>Modelo</th>
+            <th>Precio</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Cedula</td>
+                <td>@item.Nombre</td>
+                <td>@item.Marca</td>
+                <td>@item.Modelo</td>
+                <td>@item.Precio</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script src="~/page/vendor/jquery/jquery.min.js"></script>
+<script src="~/page/js/DataTable.js"></script>

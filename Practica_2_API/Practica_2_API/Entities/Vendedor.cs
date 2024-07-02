@@ -2,8 +2,12 @@
 {
     public class Vendedor
     {
-        public string? Nombre { get; set; }
         public string? Cedula { get; set; }
+
+        public string? Nombre { get; set; }
+
         public string? Correo { get; set; }
+
+        public string? Estado { get; set; }
     }
 }

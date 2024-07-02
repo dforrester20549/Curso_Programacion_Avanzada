@@ -30,16 +30,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/Documents/GitHub/Curso_Programacion_Avanzada/Practica_2_WEB/Practica_2_WEB/Views/Home/RegistrarVendedor.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3RyYXJWZW5kZWRvci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Daniel/Documents/GitHub/Curso_Programacion_Avanzada/Practica_2_WEB/Practica_2_WEB/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/Documents/GitHub/Curso_Programacion_Avanzada/Practica_2_WEB/Practica_2_WEB/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/Daniel/Documents/GitHub/Curso_Programacion_Avanzada/Practica_2_WEB/Practica_2_WEB/Views/Vehiculo/ConsultarVehiculos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bG9cQ29uc3VsdGFyVmVoaWN1bG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daniel/Documents/GitHub/Curso_Programacion_Avanzada/Practica_2_WEB/Practica_2_WEB/Views/Vehiculo/RegistrarVehiculo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bG9cUmVnaXN0cmFyVmVoaWN1bG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daniel/Documents/GitHub/Curso_Programacion_Avanzada/Practica_2_WEB/Practica_2_WEB/Views/Vendedor/RegistrarVendedor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGVkb3JcUmVnaXN0cmFyVmVuZGVkb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Daniel/Documents/GitHub/Curso_Programacion_Avanzada/Practica_2_WEB/Practica_2_WEB/Views/_ViewImports.cshtml]

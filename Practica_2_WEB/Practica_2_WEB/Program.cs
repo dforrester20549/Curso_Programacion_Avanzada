@@ -1,4 +1,3 @@
-using Practica_2_WEB.Interfaces;
 using Practica_2_WEB.Models;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,8 +5,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddHttpClient();
-builder.Services.AddHttpContextAccessor();
 builder.Services.AddScoped<IVendedorModel, VendedorModel>();
+builder.Services.AddScoped<IVehiculoModel, VehiculoModel>();
 
 var app = builder.Build();
 

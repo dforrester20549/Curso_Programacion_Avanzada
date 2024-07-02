@@ -1,65 +1,59 @@
 USE [Practica2]
 GO
 
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-
-CREATE PROCEDURE [dbo].[RegistrarVendedor]
-	
-	@Cedula varchar(50),
-	@Nombre varchar(100),
-	@Correo varchar(100)
+-- Procedimiento almacenado para registrar un vendedor
+CREATE PROCEDURE RegistrarVendedor
+	@Cedula		varchar(50),
+    @Nombre		varchar(100),
+    @Correo		varchar(100)
 AS
 BEGIN
-	
-	DECLARE @Estado BIT = 1
 
-	IF NOT EXISTS(SELECT 1 FROM dbo.Vendedores WHERE Correo = @Correo OR Cedula = @Cedula)
+	IF NOT EXISTS(SELECT 1 FROM Vendedores WHERE Cedula = @Cedula)
 	BEGIN
 
-	INSERT INTO dbo.Vendedores(Cedula,Nombre,Correo,Estado)
-	VALUES (@Cedula,@Nombre,@Correo,@Estado)
+		INSERT INTO Vendedores(Cedula,Nombre,Correo,Estado)
+		VALUES (@Cedula,@Nombre,@Correo,1)
 
 	END
 
 END
 GO
 
-USE [Practica2]
-GO
-/****** Object:  StoredProcedure [dbo].[RegistrarVendedor]    Script Date: 29/06/2024 11:41:43 ******/
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-
-CREATE PROCEDURE [dbo].[RegistrarVehiculo]
-	
-	@Marca   varchar(50),
-	@Modelo  varchar(100),
-	@Color   varchar(100),
-	@Precio  decimal(18,2),
-	@Vendedor Bigint
-
+-- Procedimiento almacenado para registrar un vehiculo
+CREATE PROCEDURE RegistrarVehiculo
+	@Marca			varchar(100),
+    @Modelo			varchar(100),
+    @Color			varchar(100),
+    @Precio			decimal(18, 2),
+	@IdVendedor		bigint
 AS
 BEGIN
+	DECLARE @MarcaRepetida int;
+
+	SET @MarcaRepetida = (SELECT COUNT(*) FROM Vehiculos WHERE Marca = @Marca);
+
+	IF (@MarcaRepetida < 2)
+	BEGIN
+
+		INSERT INTO [dbo].[Vehiculos](Marca,Modelo,Color,Precio,IdVendedor)
+		VALUES (@Marca,@Modelo,@Color,@Precio,@IdVendedor)
+
+	END
+
+END
+GO
+
+-- Procedimiento para consultar todos los vehiculos
+CREATE PROCEDURE ConsultarVehiculos
 	
-	-- Declarar la variable para contar el número de vehículos con la misma marca
-    DECLARE @MarcaCount INT;
+AS
+BEGIN
 
-    -- Contar el número de vehículos con la misma marca
-    SELECT @MarcaCount = COUNT(*)
-    FROM dbo.Vehiculos
-    WHERE Marca = @Marca;
-
-    -- Si la marca no se ha registrado más de dos veces, insertar el nuevo vehículo
-    IF @MarcaCount < 2
-    BEGIN
-        INSERT INTO dbo.Vehiculos (Marca, Modelo, Color, Precio, IdVendedor)
-        VALUES (@Marca, @Modelo, @Color, @Precio, @Vendedor);
-    END
+	SELECT	Vn.Cedula, Vn.Nombre, Vh.Marca, Vh.Modelo, Vh.Precio
+	FROM	Vendedores Vn
+	INNER JOIN Vehiculos Vh 
+	ON Vn.IdVendedor = Vh.IdVendedor;
 
 END
 GO

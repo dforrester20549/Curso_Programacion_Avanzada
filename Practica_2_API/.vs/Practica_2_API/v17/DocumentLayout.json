@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A0FE9B4-F016-4D08-9278-4985BDEB5C35}|Practica_2_API\\Practica_2_API.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_api\\practica_2_api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A0FE9B4-F016-4D08-9278-4985BDEB5C35}|Practica_2_API\\Practica_2_API.csproj|solutionrelative:practica_2_api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A0FE9B4-F016-4D08-9278-4985BDEB5C35}|Practica_2_API\\Practica_2_API.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_api\\practica_2_api\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0FE9B4-F016-4D08-9278-4985BDEB5C35}|Practica_2_API\\Practica_2_API.csproj|solutionrelative:practica_2_api\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FE9B4-F016-4D08-9278-4985BDEB5C35}|Practica_2_API\\Practica_2_API.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_api\\practica_2_api\\entities\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0FE9B4-F016-4D08-9278-4985BDEB5C35}|Practica_2_API\\Practica_2_API.csproj|solutionrelative:practica_2_api\\entities\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FE9B4-F016-4D08-9278-4985BDEB5C35}|Practica_2_API\\Practica_2_API.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_api\\practica_2_api\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0FE9B4-F016-4D08-9278-4985BDEB5C35}|Practica_2_API\\Practica_2_API.csproj|solutionrelative:practica_2_api\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FE9B4-F016-4D08-9278-4985BDEB5C35}|Practica_2_API\\Practica_2_API.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_api\\practica_2_api\\entities\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0FE9B4-F016-4D08-9278-4985BDEB5C35}|Practica_2_API\\Practica_2_API.csproj|solutionrelative:practica_2_api\\entities\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FE9B4-F016-4D08-9278-4985BDEB5C35}|Practica_2_API\\Practica_2_API.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_api\\practica_2_api\\entities\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0FE9B4-F016-4D08-9278-4985BDEB5C35}|Practica_2_API\\Practica_2_API.csproj|solutionrelative:practica_2_api\\entities\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A0FE9B4-F016-4D08-9278-4985BDEB5C35}|Practica_2_API\\Practica_2_API.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_api\\practica_2_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,18 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2A0FE9B4-F016-4D08-9278-4985BDEB5C35}|Practica_2_API\\Practica_2_API.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_api\\practica_2_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2A0FE9B4-F016-4D08-9278-4985BDEB5C35}|Practica_2_API\\Practica_2_API.csproj|solutionrelative:practica_2_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A0FE9B4-F016-4D08-9278-4985BDEB5C35}|Practica_2_API\\Practica_2_API.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_api\\practica_2_api\\entities\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A0FE9B4-F016-4D08-9278-4985BDEB5C35}|Practica_2_API\\Practica_2_API.csproj|solutionrelative:practica_2_api\\entities\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A0FE9B4-F016-4D08-9278-4985BDEB5C35}|Practica_2_API\\Practica_2_API.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_api\\practica_2_api\\entities\\confirmacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A0FE9B4-F016-4D08-9278-4985BDEB5C35}|Practica_2_API\\Practica_2_API.csproj|solutionrelative:practica_2_api\\entities\\confirmacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A0FE9B4-F016-4D08-9278-4985BDEB5C35}|Practica_2_API\\Practica_2_API.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\practica_2_api\\practica_2_api\\entities\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A0FE9B4-F016-4D08-9278-4985BDEB5C35}|Practica_2_API\\Practica_2_API.csproj|solutionrelative:practica_2_api\\entities\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Respuesta.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_API\\Practica_2_API\\Entities\\Respuesta.cs",
+              "RelativeDocumentMoniker": "Practica_2_API\\Entities\\Respuesta.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_API\\Practica_2_API\\Entities\\Respuesta.cs",
+              "RelativeToolTip": "Practica_2_API\\Entities\\Respuesta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T04:53:55.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "VendedorController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_API\\Practica_2_API\\Controllers\\VendedorController.cs",
+              "RelativeDocumentMoniker": "Practica_2_API\\Controllers\\VendedorController.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_API\\Practica_2_API\\Controllers\\VendedorController.cs",
+              "RelativeToolTip": "Practica_2_API\\Controllers\\VendedorController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T04:52:12.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehiculoController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_API\\Practica_2_API\\Controllers\\VehiculoController.cs",
+              "RelativeDocumentMoniker": "Practica_2_API\\Controllers\\VehiculoController.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_API\\Practica_2_API\\Controllers\\VehiculoController.cs",
+              "RelativeToolTip": "Practica_2_API\\Controllers\\VehiculoController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAWwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T04:51:51.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_API\\Practica_2_API\\appsettings.json",
               "RelativeDocumentMoniker": "Practica_2_API\\appsettings.json",
@@ -51,41 +94,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_API\\Practica_2_API\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Practica_2_API\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_API\\Practica_2_API\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Practica_2_API\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T16:41:39.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_API\\Practica_2_API\\Program.cs",
               "RelativeDocumentMoniker": "Practica_2_API\\Program.cs",
               "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_API\\Practica_2_API\\Program.cs",
               "RelativeToolTip": "Practica_2_API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-29T16:35:29.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Confirmacion.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_API\\Practica_2_API\\Entities\\Confirmacion.cs",
-              "RelativeDocumentMoniker": "Practica_2_API\\Entities\\Confirmacion.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_API\\Practica_2_API\\Entities\\Confirmacion.cs",
-              "RelativeToolTip": "Practica_2_API\\Entities\\Confirmacion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T16:28:04.655Z",
               "EditorCaption": ""
             },
             {
@@ -96,22 +113,23 @@
               "RelativeDocumentMoniker": "Practica_2_API\\Entities\\Vendedor.cs",
               "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_API\\Practica_2_API\\Entities\\Vendedor.cs",
               "RelativeToolTip": "Practica_2_API\\Entities\\Vendedor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-29T16:27:27.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Vehiculo.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_API\\Practica_2_API\\Entities\\Vehiculo.cs",
               "RelativeDocumentMoniker": "Practica_2_API\\Entities\\Vehiculo.cs",
               "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Practica_2_API\\Practica_2_API\\Entities\\Vehiculo.cs",
               "RelativeToolTip": "Practica_2_API\\Entities\\Vehiculo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T16:27:00.043Z"
+              "WhenOpened": "2024-06-29T16:27:00.043Z",
+              "EditorCaption": ""
             }
           ]
         }
