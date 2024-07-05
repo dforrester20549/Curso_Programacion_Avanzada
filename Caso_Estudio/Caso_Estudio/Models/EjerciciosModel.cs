@@ -63,5 +63,13 @@ namespace Caso_Estudio.Models
 
             return respuesta;
         }
+
+        public async Task<IEnumerable<TipoEjercicios>> ObtenerTiposEjercicio()
+        {
+            using (var db = new SqlConnection(iConfiguration.GetConnectionString("DefaultConnection")))
+            {
+                return await db.QueryAsync<TipoEjercicios>("SELECT IdTipoEjercicio, DescripcionTipoEjercicio FROM TiposEjercicio");
+            }
+        }
     }
 }

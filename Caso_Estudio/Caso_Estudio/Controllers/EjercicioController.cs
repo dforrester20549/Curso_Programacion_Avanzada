@@ -26,6 +26,7 @@ namespace Caso_Estudio.Controllers
         [HttpGet]
         public IActionResult RegistrarEjercicio()
         {
+            var tiposEjercicio = iEjercicioModel.ObtenerTiposEjercicio();
             return View();
         }
 
@@ -35,7 +36,7 @@ namespace Caso_Estudio.Controllers
             var resp = iEjercicioModel.RegistrarEjercicio(entidad);
 
             if (resp.Codigo == 1)
-                return RedirectToAction("ConsultarVehiculos", "Vehiculo");
+                return RedirectToAction("Index", "Home");
 
             ViewBag.msj = resp.Mensaje;
             return View();

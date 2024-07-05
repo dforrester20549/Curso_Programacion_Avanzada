@@ -6,6 +6,7 @@ namespace Caso_Estudio.Models
     {
         Respuesta RegistrarEjercicio(Ejercicios entidad);
         Respuesta ConsultarEjercicios();
+        Task<IEnumerable<TipoEjercicios>> ObtenerTiposEjercicio();
 
     }
 }

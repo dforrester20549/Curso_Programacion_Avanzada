@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Caso_Estudio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\caso_estudio\\caso_estudio\\views\\ejercicio\\registrarejercicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|solutionrelative:caso_estudio\\views\\ejercicio\\registrarejercicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\caso_estudio\\caso_estudio\\views\\ejercicio\\consultar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|solutionrelative:caso_estudio\\views\\ejercicio\\consultar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\caso_estudio\\caso_estudio\\controllers\\ejerciciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|solutionrelative:caso_estudio\\controllers\\ejerciciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\caso_estudio\\caso_estudio\\models\\ejerciciosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|solutionrelative:caso_estudio\\models\\ejerciciosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\caso_estudio\\caso_estudio\\models\\iejerciciosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|solutionrelative:caso_estudio\\models\\iejerciciosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\caso_estudio\\caso_estudio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -19,28 +35,12 @@
       "RelativeMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|solutionrelative:caso_estudio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\caso_estudio\\caso_estudio\\views\\ejercicio\\registrarejercicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|solutionrelative:caso_estudio\\views\\ejercicio\\registrarejercicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\caso_estudio\\caso_estudio\\controllers\\ejerciciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|solutionrelative:caso_estudio\\controllers\\ejerciciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\caso_estudio\\caso_estudio\\views\\ejercicio\\consultar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|solutionrelative:caso_estudio\\views\\ejercicio\\consultar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\caso_estudio\\caso_estudio\\entidad\\ejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|solutionrelative:caso_estudio\\entidad\\ejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\caso_estudio\\caso_estudio\\entidad\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|solutionrelative:caso_estudio\\entidad\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\caso_estudio\\caso_estudio\\models\\iejerciciosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|solutionrelative:caso_estudio\\models\\iejerciciosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12AE9BD7-5901-4A3A-916F-97CF75AB8DCB}|Caso_Estudio\\Caso_Estudio.csproj|c:\\users\\daniel\\documents\\github\\curso_programacion_avanzada\\caso_estudio\\caso_estudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Caso_Estudio\\Caso_Estudio\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Caso_Estudio\\Views\\Home\\Index.cshtml",
@@ -70,25 +70,24 @@
               "RelativeToolTip": "Caso_Estudio\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-05T03:13:29.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T03:13:29.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "RegistrarEjercicio.cshtml",
               "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Caso_Estudio\\Caso_Estudio\\Views\\Ejercicio\\RegistrarEjercicio.cshtml",
               "RelativeDocumentMoniker": "Caso_Estudio\\Views\\Ejercicio\\RegistrarEjercicio.cshtml",
               "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Caso_Estudio\\Caso_Estudio\\Views\\Ejercicio\\RegistrarEjercicio.cshtml",
               "RelativeToolTip": "Caso_Estudio\\Views\\Ejercicio\\RegistrarEjercicio.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABQAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-05T03:10:08.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Consultar.cshtml",
               "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Caso_Estudio\\Caso_Estudio\\Views\\Ejercicio\\Consultar.cshtml",
               "RelativeDocumentMoniker": "Caso_Estudio\\Views\\Ejercicio\\Consultar.cshtml",
@@ -101,13 +100,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "EjercicioController.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Caso_Estudio\\Caso_Estudio\\Controllers\\EjercicioController.cs",
               "RelativeDocumentMoniker": "Caso_Estudio\\Controllers\\EjercicioController.cs",
               "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Caso_Estudio\\Caso_Estudio\\Controllers\\EjercicioController.cs",
               "RelativeToolTip": "Caso_Estudio\\Controllers\\EjercicioController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBoAAAAlAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T02:50:56.63Z",
               "EditorCaption": ""
@@ -122,38 +121,37 @@
               "RelativeToolTip": "Caso_Estudio\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T02:36:29.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T02:36:29.278Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "IEjerciciosModel.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Caso_Estudio\\Caso_Estudio\\Models\\IEjerciciosModel.cs",
               "RelativeDocumentMoniker": "Caso_Estudio\\Models\\IEjerciciosModel.cs",
               "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Caso_Estudio\\Caso_Estudio\\Models\\IEjerciciosModel.cs",
               "RelativeToolTip": "Caso_Estudio\\Models\\IEjerciciosModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T01:50:33.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "EjerciciosModel.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Caso_Estudio\\Caso_Estudio\\Models\\EjerciciosModel.cs",
               "RelativeDocumentMoniker": "Caso_Estudio\\Models\\EjerciciosModel.cs",
               "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Caso_Estudio\\Caso_Estudio\\Models\\EjerciciosModel.cs",
               "RelativeToolTip": "Caso_Estudio\\Models\\EjerciciosModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAD4vw8AAAAMAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAjwEYAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T01:50:14.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Respuesta.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Caso_Estudio\\Caso_Estudio\\Entidad\\Respuesta.cs",
               "RelativeDocumentMoniker": "Caso_Estudio\\Entidad\\Respuesta.cs",
@@ -161,12 +159,11 @@
               "RelativeToolTip": "Caso_Estudio\\Entidad\\Respuesta.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T01:45:47.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T01:45:47.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Ejercicios.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Caso_Estudio\\Caso_Estudio\\Entidad\\Ejercicios.cs",
               "RelativeDocumentMoniker": "Caso_Estudio\\Entidad\\Ejercicios.cs",
@@ -174,12 +171,11 @@
               "RelativeToolTip": "Caso_Estudio\\Entidad\\Ejercicios.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAxwAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T01:45:24.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T01:45:24.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Caso_Estudio\\Caso_Estudio\\appsettings.json",
               "RelativeDocumentMoniker": "Caso_Estudio\\appsettings.json",
@@ -187,12 +183,11 @@
               "RelativeToolTip": "Caso_Estudio\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-05T00:57:09.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T00:57:09.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Curso_Programacion_Avanzada\\Caso_Estudio\\Caso_Estudio\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Caso_Estudio\\Views\\Shared\\_Layout.cshtml",
@@ -200,8 +195,7 @@
               "RelativeToolTip": "Caso_Estudio\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAADQAAAAAAAAAAAAAADEAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-05T00:52:05.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T00:52:05.987Z"
             },
             {
               "$type": "Document",
@@ -213,8 +207,7 @@
               "RelativeToolTip": "Caso_Estudio\\Entidad\\TipoEjercicios.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T01:45:36.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T01:45:36.204Z"
             }
           ]
         }

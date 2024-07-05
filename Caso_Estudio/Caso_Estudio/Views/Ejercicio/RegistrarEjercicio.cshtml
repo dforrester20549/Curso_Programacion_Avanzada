@@ -32,7 +32,7 @@
                                     </div>
                                 }
 
-                                @using (Html.BeginForm("RegistrarVehiculo", "Vehiculo"))
+                                @using (Html.BeginForm("RegistrarEjercicio", "Ejercicios"))
                                 {
                                     <div class="form-group">
                                         @Html.TextBoxFor(m => m.Nombre, new { @class = "form-control form-control-user", @placeholder = "Nombre", @required = "true" })
@@ -43,9 +43,9 @@
                                     </div>
 
                                     <div class="form-group">
-                                        @Html.TextBoxFor(m => m.TipoEjercicio, new { @class = "form-control form-control-user", @placeholder = "TipoEjercicio", @required = "true" })
+                                        <label asp-for="TipoEjercicio">Tipo de Ejercicio:</label>
+                                        <select asp-for="TipoEjercicio" class="form-control" asp-items="ViewBag.TipoEjercicio"></select>
                                     </div>
-
                                     <input type="submit" class="btn btn-primary btn-user btn-block" value="Procesar">
                                 }
 
