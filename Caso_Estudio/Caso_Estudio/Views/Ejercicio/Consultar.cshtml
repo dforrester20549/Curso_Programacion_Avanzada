@@ -1,0 +1,35 @@
+﻿@model List<Caso_Estudio.Entidad.Ejercicios>
+
+@{
+    ViewData["Title"] = "Consultar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="mb-3 d-flex justify-content-start">
+    <a href="@Url.Action("Index", "Home")" class="btn btn-primary">
+        Atras
+    </a>
+</div>
+<table id="Ejercicios" class="table table-hover">
+    <thead>
+        <tr>
+            <th>Fecha</th>
+            <th>Monto</th>
+            <th>Descripcion</th>
+            <th>Nombre</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Fecha</td>
+                <td>@item.Monto</td>
+                <td>@item.Descripcion</td>
+                <td>@item.Nombre</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script src="~/page/vendor/jquery/jquery.min.js"></script>
+<script src="~/page/js/DataTable.js"></script>
